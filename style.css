@@ -3,13 +3,17 @@
     flex-wrap: wrap;
     width: 960px;
     height: 960px;
+    cursor: pointer;
   }
+  
   .cell {
-    background-color: #ccc;
-    border: 1px solid #999;
+    background-color: #9c9797;
+    border: 1px solid #110f0f;
     box-sizing: border-box;
+    
   }
-#changeButton{
+
+  #changeButton{
     margin-bottom: 80px;
 }
   
